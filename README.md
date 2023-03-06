@@ -9,7 +9,7 @@ The ```latest``` tag is currently:
 
 - libuv:latest
 
-- nodejs:14.17.1
+- nodejs:16.14.2
 
 - npm:7.17.0
 
@@ -21,10 +21,7 @@ To use a specific combination of nginx and node.js see the following table of av
 
 Tag | Nginx version | Node.js version | Npm version | Yarn version
 --- | --- | --- | --- | ---
-`latest` | 1.15.7-alpine | 14.17.1 | 7.17.0 | 1.22.10
-`10.16.0` | 1.15.7-alpine | 10.16.0 | 6.9.0 | 1.16.0
-`8.14.0` | 1.15.7-alpine | 8.14.0 | 6.4.1 | 1.16.0
-`6.10.3` | 1.15.7-alpine | 6.10.3 | 3.10.10 | 1.16.0
+`latest` | 1.15.7-alpine | 16.14.2 | 7.17.0 | 1.22.10
 
 
 ## Hacking
